@@ -6,7 +6,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
 
 ## PASOS (Lenguaje R)
    - ## Preparación de las Observaciones
-      * Deben estar dentro del directorio <style>p{color:red;}clusters </style>
+      * Deben estar dentro del directorio "clusters" en el directorio de trabajo
       * Deben estar contenidas en un archivo excel 
       * Tiene que haber un archivo excel por cada mes
       * Los archivos excel deben llamarse "series.medias.pre.{mes} donde {mes} es 01,02,...12  
