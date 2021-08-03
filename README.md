@@ -11,7 +11,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       * Los archivos excel deben llamarse "series.medias.pre.{mes} donde {mes} es 01,02,...12  
       - ### Ejemplo de excel con las observaciones de cada cluster
       <p align="center">
-        <img src="./img/Observaciones.png" width="800"/>
+        <img src="./img/Observaciones.png" width="500"/>
       </p>
    - ## Generacion de predictores
       - ### Diagrama de funcionamiento
