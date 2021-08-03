@@ -19,7 +19,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       </p>
       
       :+1: Listo con este Paso !!!
-  - ## Preparación de los reanalisis
+  - ## Preparación de los Reanálisis
       * Deben estar dentro del directorio "clusters" en el directorio de trabajo
       * Deben estar contenidas en un archivo excel 
       * Tiene que haber un archivo excel por cada mes
@@ -29,7 +29,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"    
      
       
-   - ## Generacion de predictores
+   - ## Generación de predictores
       - ### Diagrama de funcionamiento
 <p align="center">
   <img src="./img/P3.png" width="800"/>
