@@ -8,7 +8,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
    - ## Generacion de predictores
       - ### Diagrama de funcionamiento
 <p align="center">
-  <img src="./img/P3.png" width="600"/>
+  <img src="./img/P3.png" width="800"/>
 </p>
       - **P3_Predictores.R** .  
      
