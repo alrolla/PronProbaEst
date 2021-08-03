@@ -6,6 +6,6 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
 
 ## PASOS (Lenguaje R)
    - ### Generacion de predictores
-      - **P3_Predictores.R** . DISTRIBUCION DE ESTACIONES METEOROLOGICAS.  
+      - **P3_Predictores.R** .  
      
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
