@@ -9,10 +9,13 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       * Deben estar dentro del directorio clusters 
       * Deben estar contenidas en un archivo excel 
       * Los archivos excel deben llamarse "series.medias.pre.{mes} donde {mes} es 01,02,...12  
-   - ### Ejemplo de excel con las observaciones de cada cluster
+      * Ejemplo de excel con las observaciones de cada cluster
       <p align="center">
         <img src="./img/Observaciones.png" width="500"/>
       </p>
+      Como se observa en la figura habra un columna para el año y una columna por cada cluster
+      * Cada columna se debe llamar "cluster1, cluster2, ... clustern
+      
    - ## Generacion de predictores
       - ### Diagrama de funcionamiento
 <p align="center">
