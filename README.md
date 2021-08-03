@@ -5,6 +5,8 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
 </p>
 
 ## PASOS (Lenguaje R)
+   - ## Preparacion de las Observaciones
+      * Deben estar dentro del directorio clusters 
    - ## Generacion de predictores
       - ### Diagrama de funcionamiento
 <p align="center">
