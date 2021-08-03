@@ -19,7 +19,14 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       </p>
       
       :+1: Listo con este Paso !!!
-    
+  - ## Preparación de los reanalisis
+      * Deben estar dentro del directorio "clusters" en el directorio de trabajo
+      * Deben estar contenidas en un archivo excel 
+      * Tiene que haber un archivo excel por cada mes
+      * Los archivos excel deben llamarse "series.medias.pre.{mes} donde {mes} es 01,02,...12  
+      * Como se observa en la figura habra un columna para el año y una columna por cada cluster 
+      * Ejemplo de excel con las observaciones de cada cluster
+      * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"    
      
       
    - ## Generacion de predictores
