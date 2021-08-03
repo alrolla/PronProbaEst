@@ -14,7 +14,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
         <img src="./img/Observaciones.png" width="500"/>
       </p>
       :+1:
-    -   Como se observa en la figura habra un columna para el año y una columna por cada cluster <br>
+    - ## Como se observa en la figura habra un columna para el año y una columna por cada cluster <br>
       * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"
       
    - ## Generacion de predictores
