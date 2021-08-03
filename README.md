@@ -27,6 +27,8 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
          *  hgt1000: geopotencial en 1000 hPa,sst
          *  sst: temperatura superficie del mar
          *  tcw: agua total en la columna
+      *  hay una variable que no cambia:
+         * lsm: mascara de tierra y agua
       * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"    
      
       
