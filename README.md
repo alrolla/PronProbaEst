@@ -43,6 +43,11 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
 <p align="center">
   <img src="./img/P3.png" width="800"/>
 </p>
+
+El objetivo de este programa es de obtener regiones cuya correlacion desfasada entre reanalisis y observaciones tiene un nivel de correlacion significativa
+
+
+
       - **P3_Predictores.R** .  
      
          - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
