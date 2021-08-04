@@ -20,8 +20,13 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       
       :+1: Listo con este Paso !!!
   - ## Preparación de los Reanálisis
-      * Los reanalisis deben estar en el directorio nnr (ncep-ncar-reanalisis)
-      * las reanalisis considerados son 
+      * Los reanalisis deben estar en el directorio **nnr** (ncep-ncar-reanalisis)
+      * Son reanalisis de NCEP-NCAR globales 
+      * Cuya resolucion es de 144 puntos de longitud por 73 puntos de latitud
+      * Esto implica que cubren reticulos de 250x250 Km2
+      * La resolucion temporal es mensual
+      * Es importante que inicien en el Enero del año 1979 **(aunque el periodo inical en el proceso debe ser 1980!)**
+      * las variables de los reanalisis considerados son: 
          *  **hgt200**: geopotencial en 200 hPa
          *  **hgt500**: geopotencial en 200 hPa
          *  **hgt1000**: geopotencial en 1000 hPa,sst
@@ -29,8 +34,9 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
          *  **tcw**: agua total en la columna
       *  hay una variable que no cambia:
          * **lsm**: mascara de tierra y agua
-      * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"    
-     
+      * (Explicar el script de descarga y preparacion de estos archivos)
+
+     :+1: Listo con este Paso !!! 
       
    - ## Generación de predictores
       - ### Diagrama de funcionamiento
