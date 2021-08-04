@@ -45,7 +45,8 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
 </p>
 
 El objetivo de este programa es de obtener regiones cuya correlacion desfasada entre reanalisis y observaciones 
-tenga un nivel de correlacion significativa y de esas regiones obtener los predictores para luego ser entrada al programa de generación de modelos
+tenga un nivel de correlacion significativa y de ese modo obtener las series de predictores para que sirvan
+de entrada al programa de generación de modelos, previa seleccion de aquellos predictores con sentido fisico, que aporten informacion a los modelos generados 
 
 
 
