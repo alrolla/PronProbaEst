@@ -15,7 +15,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
       * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"
 
       <p align="center">
-        <img src="./img/Observaciones.png" width="500"/>
+        <img src="./img/Observaciones.png" width="400"/>
       </p>
       
       :+1: Listo con este Paso !!!
