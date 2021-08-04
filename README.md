@@ -22,13 +22,13 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
   - ## Preparación de los Reanálisis
       * Los reanalisis deben estar en el directorio nnr (ncep-ncar-reanalisis)
       * las reanalisis considerados son 
-         *  *hgt200*: geopotencial en 200 hPa
+         *  **hgt200**: geopotencial en 200 hPa
          *  **hgt500**: geopotencial en 200 hPa
-         *  hgt1000: geopotencial en 1000 hPa,sst
-         *  sst: temperatura superficie del mar
-         *  tcw: agua total en la columna
+         *  **hgt1000**: geopotencial en 1000 hPa,sst
+         *  **sst**: temperatura superficie del mar
+         *  **tcw**: agua total en la columna
       *  hay una variable que no cambia:
-         * lsm: mascara de tierra y agua
+         * **lsm**: mascara de tierra y agua
       * Cada columna se debe llamar "cluster1, cluster2, ... clusterN"    
      
       
