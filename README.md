@@ -51,6 +51,11 @@ de entrada al programa de generación de modelos, previa seleccion de aquellos p
 Importante: 
 si queremos pronosticar febrero , correlacionamos los reanalisis de enero con las observaciones de febrero y guardamos los predictores en las planillas excel de febrero
 
+Ejemplo de archivo excel de predictores:
+<p align="center">
+  <img src="./img/Predictores_ejemplo.png" width="800"/>
+</p>
+
 
 
 
