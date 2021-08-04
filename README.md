@@ -57,7 +57,7 @@ Ejemplo de archivo excel de predictores:
 </p>
 Ejemplo de mapa de correlación:
 <p align="center">
-  <img src="./img/MapaDeCorrelacionSST.png" width="500"/>
+  <img src="./img/MapaCorrelacion.png" width="500"/>
 </p>
 
 
