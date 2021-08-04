@@ -49,7 +49,7 @@ tenga un nivel de correlacion significativa y de ese modo obtener las series de 
 de entrada al programa de generación de modelos, previa seleccion de aquellos predictores con sentido fisico, que aporten informacion a los modelos generados <br>
 
 Importante: 
-si queremos pronosticar febrero , correlacionamos los reanalisis de enero con las observaciones de febrero y guardamos los predictores en las planillas excel de febrero
+si queremos pronosticar febrero , correlacionamos los reanalisis de enero con las observaciones de febrero y guardamos los predictores en las planillas excel de febrero con estos predictores se generaran los modelos para febrero.
 
 Ejemplo de archivo excel de predictores:
 <p align="center">
