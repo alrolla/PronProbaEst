@@ -41,7 +41,7 @@ The “Gran Chaco Argentino” is an area with great diversity of vegetation and
    - ## Generación de predictores
       - ### Diagrama de funcionamiento
 <p align="center">
-  <img src="./img/P3.png" width="600"/>
+  <img src="./img/P3.png" width="800"/>
 </p>
 
 El objetivo de este programa es de obtener regiones cuya correlacion desfasada entre reanalisis y observaciones 
@@ -53,7 +53,7 @@ si queremos pronosticar febrero , correlacionamos los reanalisis de enero con la
 
 Ejemplo de archivo excel de predictores:
 <p align="center">
-  <img src="./img/Predictores_ejemplo.png" width="800"/>
+  <img src="./img/Predictores_ejemplo.png" width="600"/>
 </p>
 
 
