@@ -47,7 +47,7 @@ La figura siguiente muestra la interaccion entre los distintos modulos del siste
 
      :+1: Listo con este Paso !!! 
       
-   - ## Generación de predictores
+   - ## P3-Generación de predictores
       - ### Diagrama de funcionamiento
 <p align="center">
   <img src="./img/P3.png" width="800"/>
@@ -74,6 +74,10 @@ Ejemplo de mapa de correlación:
 - ## P4-Reduccion de predictores
 <p align="center">
   <img src="./img/P4.png" width="600"/>
+</p>
+- ## P4.5-Calculo de predictores siguiente año
+<p align="center">
+  <img src="./img/P4.5.png" width="600"/>
 </p>
 
 
