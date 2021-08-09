@@ -8,7 +8,7 @@ Se describe la implementacion de un sistema para realizar un pronostico climáti
 La figura siguiente muestra la interaccion entre los distintos modulos del sistema de pronostico
       
 <p align="center">
-        <img src="./img/DiagramaGeneral.png" width="600"/>
+        <img src="./img/DiagramaGeneral.png" width="800"/>
 </p>
 
 ## PASOS (Lenguaje R)
