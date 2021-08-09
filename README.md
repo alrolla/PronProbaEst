@@ -100,5 +100,7 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/P5-ANN.png" width="800"/>
 </p>
-
+<p align="center">
+  <img src="./img/redes.png" width="800"/>
+</p>
 
