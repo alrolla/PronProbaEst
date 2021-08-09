@@ -71,8 +71,9 @@ Ejemplo de mapa de correlación:
   <img src="./img/MapaCorrelacion.png" width="600"/>
 </p>
 
+- ## P4-Reduccion de predictores
+<p align="center">
+  <img src="./img/P4.png" width="600"/>
+</p>
 
 
-      - **P3_Predictores.R** .  
-     
-         - [RESULTADOS](https://github.com/alrolla/Especializacion_2018/tree/master/Analisis_Exploratorio)
