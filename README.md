@@ -64,11 +64,11 @@ si queremos pronosticar febrero , correlacionamos los reanalisis de enero con la
 
 Ejemplo de archivo excel de predictores:
 <p align="center">
-  <img src="./img/Predictores_ejemplo.png" width="600"/>
+  <img src="./img/Predictores_ejemplo.png" width="800"/>
 </p>
 Ejemplo de mapa de correlación:
 <p align="center">
-  <img src="./img/MapaCorrelacion.png" width="600"/>
+  <img src="./img/MapaCorrelacion.png" width="800"/>
 </p>
 
 - ## P4-Reduccion de predictores
