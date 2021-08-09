@@ -5,7 +5,8 @@ Se describe la implementacion de un sistema para realizar un pronostico climáti
 </p>
 
 ## Diagrama General 
-La figura siguiente muestra la interaccion entre los distintos modulos del sistema de pronostico
+La figura siguiente muestra la interaccion entre los distintos modulos del sistema de pronostico.
+Todos los modulos fueron escritos en lenguaje R.
       
 <p align="center">
         <img src="./img/DiagramaGeneral.png" width="800"/>
