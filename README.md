@@ -75,6 +75,7 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/P4.png" width="600"/>
 </p>
+
 - ## P4.5-Calculo de predictores siguiente año
 <p align="center">
   <img src="./img/P4.5.png" width="600"/>
