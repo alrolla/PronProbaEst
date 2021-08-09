@@ -85,15 +85,24 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/P5-RLM.png" width="800"/>
 </p>
+<p align="center">
+  <img src="./img/SalidaRLM.png" width="500"/>
+</p>
 
 - ## P5-SVR - Support Vector Regression 
 <p align="center">
   <img src="./img/P5-SVR.png" width="800"/>
 </p>
+<p align="center">
+  <img src="./img/SalidaSVR.png" width="500"/>
+</p>
 
 - ## P5-GAM - Moodelos de Generalize Additive Models
 <p align="center">
   <img src="./img/P5-GAM.png" width="800"/>
+</p>
+<p align="center">
+  <img src="./img/SalidaGAM.png" width="500"/>
 </p>
 
 - ## P5-ANN - Moodelos de Artificial Neural Networks
@@ -102,5 +111,8 @@ Ejemplo de mapa de correlación:
 </p>
 <p align="center">
   <img src="./img/Redes.png" width="500"/>
+</p>
+<p align="center">
+  <img src="./img/SalidaANN.png" width="500"/>
 </p>
 
