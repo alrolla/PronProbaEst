@@ -76,9 +76,29 @@ Ejemplo de mapa de correlación:
   <img src="./img/P4.png" width="800"/>
 </p>
 
-- ## P4.5-Calculo de predictores siguiente año
+- ## P4.5 y P4.8 -Calculo de predictores siguiente año
 <p align="center">
   <img src="./img/P4.5.png" width="800"/>
+</p>
+
+- ## P5-RLM - Moodelos de regresion lineal multiple 
+<p align="center">
+  <img src="./img/P5-RLM.png" width="800"/>
+</p>
+
+- ## P5-RLM - Moodelos de regresion lineal multiple 
+<p align="center">
+  <img src="./img/P5-SVR.png" width="800"/>
+</p>
+
+- ## P5-RLM - Moodelos de regresion lineal multiple 
+<p align="center">
+  <img src="./img/P5-GAM.png" width="800"/>
+</p>
+
+- ## P5-RLM - Moodelos de regresion lineal multiple 
+<p align="center">
+  <img src="./img/P5-ANN.png" width="800"/>
 </p>
 
 
