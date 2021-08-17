@@ -128,6 +128,11 @@ A continuacion se muestra un ejemplo del excel de salida de ANN, se observa la c
   <img src="./img/P7.png" width="800"/>
 </p>
 
+Ejemplo de las distintas partes del Excel resultante del modulo P7
+<p align="center">
+  <img src="./img/P7Excel1.png" width="800"/>
+</p>
+
 - ## P8 - Pronóstico Probabilistico proximo mes
 <p align="center">
   <img src="./img/P8.png" width="800"/>
