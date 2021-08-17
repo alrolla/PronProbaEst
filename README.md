@@ -109,7 +109,7 @@ A continuacion se muestra un ejemplo del excel de salida de GAM, se observa la c
   <img src="./img/SalidaGAM.png" width="500"/>
 </p>
 
-- ## P5-ANN - Moodelos de Artificial Neural Networks
+- ## P5-ANN - Modelos de Artificial Neural Networks
 <p align="center">
   <img src="./img/P5-ANN.png" width="800"/>
 </p>
