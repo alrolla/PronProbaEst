@@ -124,7 +124,7 @@ A continuacion se muestra un ejemplo del excel de salida de GAM, se observa la c
 - ## P5-ANN - Modelos de Artificial Neural Networks
 
 * Para poder usar este modulo es necesario intalar KERAS 
-* La documentación de como haverlo esta  en este [archivo] () <br>
+* La documentación de como haverlo esta  en este [archivo] (./img/Instalacion Keras en R.docx) <br>
 
 <p align="center">
   <img src="./img/P5-ANN.png" width="800"/>
