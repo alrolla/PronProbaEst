@@ -13,7 +13,7 @@ La figura siguiente muestra la interaccion entre los distintos modulos del siste
         <img src="./img/DiagramaGeneral.png" width="800"/>
 </p>
 
-## PASOS (Lenguaje R)
+## MODULOS 
    - ## Preparación de las Observaciones
       * Deben estar dentro del directorio "clusters" en el directorio de trabajo
       * Deben estar contenidas en un archivo excel 
@@ -76,7 +76,7 @@ Ejemplo de mapa de correlación:
   <img src="./img/P4.png" width="800"/>
 </p>
 
-- ## P4.5 y P4.8 -Calculo de predictores siguiente año
+- ## P4.5 y P4.8 - Calculo de predictores siguiente año
 <p align="center">
   <img src="./img/P4.5.png" width="800"/>
 </p>
@@ -97,7 +97,7 @@ Ejemplo de mapa de correlación:
   <img src="./img/SalidaSVR.png" width="500"/>
 </p>
 
-- ## P5-GAM - Moodelos de Generalize Additive Models
+- ## P5-GAM - Modelos de Generalize Additive Models
 <p align="center">
   <img src="./img/P5-GAM.png" width="800"/>
 </p>
@@ -115,12 +115,15 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/SalidaANN.png" width="800"/>
 </p>
+- ## P7 - Pronóstico Probabilistico
 <p align="center">
   <img src="./img/P7.png" width="800"/>
 </p>
+- ## P8 - Pronóstico Probabilistico proximo mes
 <p align="center">
   <img src="./img/P8.png" width="800"/>
 </p>
+- ## P9 - Resumen de pronosticos probabilisticos
 <p align="center">
   <img src="./img/P9.png" width="800"/>
 </p>
