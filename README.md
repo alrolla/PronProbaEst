@@ -135,7 +135,7 @@ Parte 1: <br>
 </p> 
 <br>
 
-* Se observa que 8 modelos superaron el umbral de 0.5
+* Se observa que 8 modelos superaron el umbral de 0.5 de R^2 ajustado
 * Se ven los predictores que quedaron en las formulas de pronóstico
 * solo entraron 3 de los cuatro tipos de modelos GAM, SVR, ANN el tipo RLM no genero modelos que superen el umbral de 0.5
 * Se ve el pronostico y la observacion para verificar 
@@ -152,10 +152,12 @@ Parte 2: <br>
 * La tercer columna el limite inferior
 * La cuarta columna la probabilidad asosciada a cada umbral
 <br>
-<p align="center">
-  <img src="./img/P7Excel3.png" width="400"/>
-</p>
+
 Parte 3: <br>
+<p align="center">
+  <img src="./img/P7Excel3.png" width="500"/>
+</p>
+
 * La primer columna son los quintiles de las observaciones 
 * La segunda columna La probabilidad "entre quitiles ..."
 * La tercer columna la probabilidad asociada
