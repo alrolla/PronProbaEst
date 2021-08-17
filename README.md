@@ -196,4 +196,4 @@ Este modulo lee todos los pronosticos y arma un excel con 4 tabs cada una conten
 
 - ## ANEXO - Instalacion de virtualbox y linux en Windows
 
-- [Como instalar virtualbox y ubuntu?](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/)
+  1. [Como instalar virtualbox y ubuntu?](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/)
