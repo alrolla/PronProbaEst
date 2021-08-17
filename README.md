@@ -115,6 +115,7 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/SalidaANN.png" width="800"/>
 </p>
+
 - ## P7 - Pronóstico Probabilistico
 <p align="center">
   <img src="./img/P7.png" width="800"/>
