@@ -128,11 +128,11 @@ A continuacion se muestra un ejemplo del excel de salida de ANN, se observa la c
   <img src="./img/P7.png" width="800"/>
 </p>
 
-Ejemplo de las distintas partes del Excel resultante del modulo P7 <br>
+Ejemplo de las distintas partes del Excel resultante del modulo P7 <br><br>
 
 <p align="center">
   <img src="./img/P7Excel1.png" width="800"/>
-</p> <br>
+</p> 
 
 Parte 1: <br>
 * Se observa que 8 modelos superaron el umbral de 0.5
