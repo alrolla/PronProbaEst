@@ -171,7 +171,7 @@ Parte 4: <br>
   <img src="./img/P7Excel4.png" width="500"/>
 </p>
 
-* La primer columna es el tipo de modelo
+* La primer columna es el tipo de modelo donde TOTAL es el ensamble medio
 * La segunda columna es la cantidad de modelos usados
 * La tercer columna es la media por tipo de modelo
 * La cuarta columna es el desvio
