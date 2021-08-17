@@ -187,6 +187,9 @@ Este modulo es similar al Modulo P7 con la diferencia que como estamos pronostic
 </p>
 
 - ## P9 - Resumen de pronosticos probabilisticos
+
+Este modulo lee todos los pronosticos y arma un excel con 4 tabs cada una conteniendo resumenes de los errores de todos los pronosticos.
+
 <p align="center">
   <img src="./img/P9.png" width="800"/>
 </p>
