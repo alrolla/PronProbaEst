@@ -175,11 +175,11 @@ Parte 3: <br>
 </p>
 
 * La primer columna son los quintiles de las observaciones 
-* La segunda columna La probabilidad "entre quitiles ..."
+* La segunda columna La probabilidad "entre quintiles ..."
 * La tercer columna la probabilidad asociada
 * La cuarta columna la OBSERVACION
 * La quinta columna  el intervalo en que cae la observación
-* la sexta columna  el intervalo en que cae el pronostico
+* la sexta columna  el intervalo en el que cae la mayor cantidad de modelos
 * la septima columna IDX: el intervalo diferencia o error
 
 Parte 4: <br>
@@ -195,16 +195,25 @@ Parte 4: <br>
 
 <br>
 
-- ## P8 - Pronóstico Probabilistico proximo mes
+- ## P8 - Pronóstico Probabilistico operativo del proximo mes
 
-Este modulo es similar al Modulo P7 con la diferencia que como estamos pronosticando sin disponer de la observacion TODO lo relacionado a verificacion es omitido en el excel resultante <br>
+- Este modulo es similar al Modulo P7 con la diferencia que como estamos pronosticando sin disponer de la observacion TODO lo relacionado a verificacion es omitido en el excel resultante <br>
+- Antes de usar este modulo , se deben completar los archivos de predictores con el predictor del ultimo mes, pero calculado con los dias  hasta el momento de realizar el pronóstico.<br>
+- Para ello, se tiene que usar el script "predicProno.sh {año}" para el año corresppondiente en la maquina virtual.<br>
+- Crea el directorio NNRMes con todos los meses de los dos ultimos años y el mes actual con los dias que tiene >br>
+- Ese NNRMes hay que copiarlo en nuestra maquina y una vez que lo copiamos correr el P4.8 para agregar el predictor del ultimo mes <br>
+- Cada vez que termina un año , correr el "predictores.sh" en la maquina virtual<br>
+- Cambiar en el script hasta el año que hay que descargar<br>
+- Esto crea el directorio NNR conteniendo los archivos de las variables de los reanalisis de todos los años<br>
+
+
 <p align="center">
   <img src="./img/P8.png" width="800"/>
 </p>
 
-- ## P9 - Resumen de pronosticos probabilisticos
+- ## P9 - Resumen de pronosticos probabilisticos para la verificación
 
-Este modulo lee todos los pronosticos y arma un excel con 4 tabs cada una conteniendo resumenes de los errores de todos los pronosticos.
+Este modulo lee todos los pronosticos realizados para la verificación y arma un excel con 4 pestañas cada una conteniendo resumenes de los errores de todos los pronosticos.
 
 <p align="center">
   <img src="./img/P9.png" width="800"/>
