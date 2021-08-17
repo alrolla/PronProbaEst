@@ -115,4 +115,12 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/SalidaANN.png" width="800"/>
 </p>
-
+<p align="center">
+  <img src="./img/P7.png" width="800"/>
+</p>
+<p align="center">
+  <img src="./img/P8.png" width="800"/>
+</p>
+<p align="center">
+  <img src="./img/P9.png" width="800"/>
+</p>
