@@ -81,7 +81,7 @@ Ejemplo de mapa de correlación:
   <img src="./img/P4.5.png" width="800"/>
 </p>
 
-- ## P5-RLM - Moodelos de regresion lineal multiple 
+- ## P5-RLM - Modelos de regresion lineal multiple 
 <p align="center">
   <img src="./img/P5-RLM.png" width="800"/>
 </p>
