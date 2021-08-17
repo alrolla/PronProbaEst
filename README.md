@@ -170,6 +170,8 @@ Parte 3: <br>
 <br>
 
 - ## P8 - Pronóstico Probabilistico proximo mes
+
+Este modulo es similar al Modulo P7 con la diferencia que como estamos pronosticando sin disponer de la observacion TODO lo relacionado a verificacion es omitido en el excel resultante <br>
 <p align="center">
   <img src="./img/P8.png" width="800"/>
 </p>
