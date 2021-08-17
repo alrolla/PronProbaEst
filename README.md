@@ -168,7 +168,7 @@ Parte 3: <br>
 
 Parte 4: <br>
 <p align="center">
-  <img src="./img/P7Excel4.png" width="500"/>
+  <img src="./img/P7Excel4.png" width="400"/>
 </p>
 
 * La primer columna es el tipo de modelo donde TOTAL es el ensamble medio
