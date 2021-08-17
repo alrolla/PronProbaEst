@@ -114,7 +114,7 @@ A continuacion se muestra un ejemplo del excel de salida de GAM, se observa la c
   <img src="./img/P5-ANN.png" width="800"/>
 </p>
 
-Este es esquema de laas 4 arquitecturas de redes usadas. <br>
+Este es esquema de las 4 arquitecturas de redes usadas. <br>
 <p align="center">
   <img src="./img/Redes.png" width="500"/>
 </p>
