@@ -132,7 +132,8 @@ Ejemplo de las distintas partes del Excel resultante del modulo P7 <br>
 
 <p align="center">
   <img src="./img/P7Excel1.png" width="800"/>
-</p>
+</p> <br>
+
 Parte 1: <br>
 * Se observa que 8 modelos superaron el umbral de 0.5
 * Se ven los predictores que quedaron en las formulas de pronóstico
