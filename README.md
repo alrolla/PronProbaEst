@@ -100,7 +100,10 @@ A continuacion se muestra un ejemplo del excel de salida de regresion lineal mul
   <img src="./img/SalidaRLM.png" width="500"/>
 </p>
 
-- ## P5-SVR - Support Vector Regression 
+- ## P5-SVR - Support Vector Regression <br>
+
+* Tener en cuenta que el modulo SVR puede tardar bastante <br>
+
 <p align="center">
   <img src="./img/P5-SVR.png" width="800"/>
 </p>
@@ -119,6 +122,10 @@ A continuacion se muestra un ejemplo del excel de salida de GAM, se observa la c
 </p>
 
 - ## P5-ANN - Modelos de Artificial Neural Networks
+
+* Para poder usar este modulo es necesario intalar KERAS 
+* La documentación de como haverlo esta  en este [archivo] () <br>
+
 <p align="center">
   <img src="./img/P5-ANN.png" width="800"/>
 </p>
