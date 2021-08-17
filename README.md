@@ -85,7 +85,7 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/P5-RLM.png" width="800"/>
 </p>
-A continuacion se muestra un ejemplo del excel de salida de regresion lineal multiple, se observe el R^2
+A continuacion se muestra un ejemplo del excel de salida de regresion lineal multiple, se observa la columna de R^2 para este tipo de modelo.<br>
 
 <p align="center">
   <img src="./img/SalidaRLM.png" width="500"/>
@@ -95,6 +95,7 @@ A continuacion se muestra un ejemplo del excel de salida de regresion lineal mul
 <p align="center">
   <img src="./img/P5-SVR.png" width="800"/>
 </p>
+A continuacion se muestra un ejemplo del excel de salida de SVR, se observa la columna de R^2 para este tipo de modelo.<br>
 <p align="center">
   <img src="./img/SalidaSVR.png" width="500"/>
 </p>
@@ -103,6 +104,7 @@ A continuacion se muestra un ejemplo del excel de salida de regresion lineal mul
 <p align="center">
   <img src="./img/P5-GAM.png" width="800"/>
 </p>
+A continuacion se muestra un ejemplo del excel de salida de GAM, se observa la columna de R^2 para este tipo de modelo.<br>
 <p align="center">
   <img src="./img/SalidaGAM.png" width="500"/>
 </p>
@@ -111,9 +113,12 @@ A continuacion se muestra un ejemplo del excel de salida de regresion lineal mul
 <p align="center">
   <img src="./img/P5-ANN.png" width="800"/>
 </p>
+
+Este es esquema de laas 4 arquitecturas de redes usadas. <br>
 <p align="center">
   <img src="./img/Redes.png" width="500"/>
 </p>
+A continuacion se muestra un ejemplo del excel de salida de ANN, se observa la columna de R^2 para este tipo de modelo.<br>
 <p align="center">
   <img src="./img/SalidaANN.png" width="800"/>
 </p>
