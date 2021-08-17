@@ -85,6 +85,8 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/P5-RLM.png" width="800"/>
 </p>
+A continuacion se muestra un ejemplo del excel de salida de regresion lineal multiple, se observe el R^2
+
 <p align="center">
   <img src="./img/SalidaRLM.png" width="500"/>
 </p>
