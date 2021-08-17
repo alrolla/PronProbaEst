@@ -193,3 +193,7 @@ Este modulo lee todos los pronosticos y arma un excel con 4 tabs cada una conten
 <p align="center">
   <img src="./img/P9.png" width="800"/>
 </p>
+
+- ## ANEXO - Instalacion de virtualbox y linux en Windows
+
+[https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/]
