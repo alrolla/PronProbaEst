@@ -143,7 +143,7 @@ Parte 1: <br>
 
 Parte 2: <br>
 <p align="center">
-  <img src="./img/P7Excel2.png" width="800"/>
+  <img src="./img/P7Excel2.png" width="400"/>
 </p>
 <br>
 
