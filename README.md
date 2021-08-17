@@ -73,7 +73,7 @@ Ejemplo de mapa de correlación:
 
 - ## P4-Reduccion de predictores <br>
 
-* Este modulo prueba la independencia de los preictores
+* Este modulo prueba la independencia de los predictores
 * Si son todos dependientes los deja a todos <br>
 
 
@@ -83,6 +83,9 @@ Ejemplo de mapa de correlación:
 
 
 - ## P4.5 y P4.8 - Calculo de predictores siguiente año
+
+* Cada vez que se usa este modulo se sobrescribe el resultado. <br>
+
 <p align="center">
   <img src="./img/P4.5.png" width="800"/>
 </p>
