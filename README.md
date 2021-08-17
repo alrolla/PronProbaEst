@@ -166,6 +166,16 @@ Parte 3: <br>
 * la sexta columna  el intervalo en que cae el pronostico
 * la septima columna IDX: el intervalo diferencia o error
 
+Parte 4: <br>
+<p align="center">
+  <img src="./img/P7Excel4.png" width="500"/>
+</p>
+
+* La primer columna es el tipo de modelo
+* La segunda columna es la cantidad de modelos usados
+* La tercer columna es la media por tipo de modelo
+* La cuarta columna es el desvio
+* La ultima fila es el ensamble medio de los modelos
 
 <br>
 
