@@ -129,12 +129,12 @@ A continuacion se muestra un ejemplo del excel de salida de ANN, se observa la c
 </p>
 
 Ejemplo de las distintas partes del Excel resultante del modulo P7 <br><br>
-
+Parte 1: <br>
 <p align="center">
   <img src="./img/P7Excel1.png" width="800"/>
 </p> 
 
-Parte 1: <br>
+<br>
 * Se observa que 8 modelos superaron el umbral de 0.5
 * Se ven los predictores que quedaron en las formulas de pronóstico
 * solo entraron 3 de los cuatro tipos de modelos GAM, SVR, ANN el tipo RLM no genero modelos que superen el umbral de 0.5
