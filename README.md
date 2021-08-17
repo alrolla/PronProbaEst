@@ -133,12 +133,18 @@ Ejemplo de las distintas partes del Excel resultante del modulo P7 <br>
 <p align="center">
   <img src="./img/P7Excel1.png" width="800"/>
 </p>
+Parte 1: <br>
+* Se observa que 8 modelos superaron el umbral de 0.5
+* Se ven los predictores que quedaron en las formulas de pronóstico
+* solo entraron 3 de los cuatro tipos de modelos GAM, SVR, ANN el tipo RLM no genero modelos que superen el umbral de 0.5
+* Se ve el pronostico y la observacion para verificar
 
-* Se observn que 8 modelos superaron el umbral de 0.5
-* Se ven los predictores que quedaron en las formulas de pronotico
-* solo entraron 3 de los cuatro tipos de modelos GAM, SVR, ANN
-* Se ve el pronostico y la observacion
+Parte 2: <br>
+* La primer columna son los quintiles de las observaciones 
+* La probabilidad en base a los modelos que superaron el umbral de 0.5 y los limites de los quintiles
+* La probabilidad asociada en base al numero de modelos
 
+ 
 <br>
 
 - ## P8 - Pronóstico Probabilistico proximo mes
