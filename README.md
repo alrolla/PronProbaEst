@@ -120,10 +120,12 @@ Ejemplo de mapa de correlación:
 <p align="center">
   <img src="./img/P7.png" width="800"/>
 </p>
+
 - ## P8 - Pronóstico Probabilistico proximo mes
 <p align="center">
   <img src="./img/P8.png" width="800"/>
 </p>
+
 - ## P9 - Resumen de pronosticos probabilisticos
 <p align="center">
   <img src="./img/P9.png" width="800"/>
