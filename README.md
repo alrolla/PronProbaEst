@@ -139,12 +139,28 @@ Parte 1: <br>
 * solo entraron 3 de los cuatro tipos de modelos GAM, SVR, ANN el tipo RLM no genero modelos que superen el umbral de 0.5
 * Se ve el pronostico y la observacion para verificar
 
+<p align="center">
+  <img src="./img/P7Excel2.png" width="800"/>
+</p>
 Parte 2: <br>
 * La primer columna son los quintiles de las observaciones 
-* La probabilidad en base a los modelos que superaron el umbral de 0.5 y los limites de los quintiles
-* La probabilidad asociada en base al numero de modelos
+* La segunda columna La probabilidad "mayor que ..."
+* La tercer columna el limite inferior
+* La cuarta columna la probabilidad asosciada a cada umbral
 
- 
+<p align="center">
+  <img src="./img/P7Excel3.png" width="800"/>
+</p>
+Parte 3: <br>
+* La primer columna son los quintiles de las observaciones 
+* La segunda columna La probabilidad "entre quitiles ..."
+* La tercer columna la probabilidad asociada
+* La cuarta columna la OBSERVACION
+* La quinta columna  el intervalo en que cae la observación
+* la sexta columna  el intervalo en que cae el pronostico
+* la septima columna IDX: el intervalo diferencia o error
+
+
 <br>
 
 - ## P8 - Pronóstico Probabilistico proximo mes
