@@ -153,7 +153,7 @@ Parte 2: <br>
 * La cuarta columna la probabilidad asosciada a cada umbral
 <br>
 <p align="center">
-  <img src="./img/P7Excel3.png" width="800"/>
+  <img src="./img/P7Excel3.png" width="400"/>
 </p>
 Parte 3: <br>
 * La primer columna son los quintiles de las observaciones 
