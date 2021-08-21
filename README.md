@@ -199,10 +199,10 @@ Parte 4: <br>
 
 - Este modulo es similar al Modulo P7 con la diferencia que como estamos pronosticando sin disponer de la observacion TODO lo relacionado a verificacion es omitido en el excel resultante <br>
 - Antes de usar este modulo , se deben completar los archivos de predictores con el predictor del ultimo mes, pero calculado con los dias  hasta el momento de realizar el pronóstico.<br>
-- Para ello, se tiene que usar el script "predicProno.sh {año}" para el año corresppondiente en la maquina virtual Linux de VirtualBox.<br>
-- El script "predictprono.sh {año} Crea el directorio NNRMes con los reanalisis de {hgt200.nc, hgt500.nc, hgt1000.nc, st.nc, tcw.nc, u850.nc,v850.nc} <br> de todos los meses de los dos ultimos años y el mes actual con los dias que tiene hasta el momento de realizar el pronóstico. >br>
-- Ese directorio NNRMes hay que copiarlo en nuestra maquina Windows y una vez que lo copiamos correr el P4.8 para agregar el predictor del ultimo mes. <br>
-- 
+- Para ello, se tiene que usar el script "predicProno.sh {año}" para el año correspondiente ( ej: "predicProno.sh 2021"  en la maquina virtual Linux de VirtualBox.<br>
+- El script "predictprono.sh {año}" Creará el directorio NNRMes con los reanalisis de {hgt200.nc, hgt500.nc, hgt1000.nc, st.nc, tcw.nc, u850.nc,v850.nc} <br> de todos los meses de los dos ultimos años y el mes actual con los dias que tiene hasta el momento de realizar el pronóstico. <br>
+- ## Ese directorio NNRMes hay que copiarlo en nuestra maquina Windows ( tendrian que estar en el directorio compartido "windows <-> Linux" y copiarlos en el directorio NNRMes de la Maquina Windows y una vez que lo copiamos correr el P4.8 para agregar el predictor del ultimo mes. <br>
+
 - Cada vez que termina un año , correr el script "predictores.sh" en la maquina virtual, para tener los reanalisis completos en el  periodo completo de 1979 al año actual<br>
 - Cambiar en el script predictores.sh cambiar la linea 69 con el año que hay que descargar<br> 
 - "for(( a=1979; a<= 2021 ; a++)); do" aca cambiar 2021 por el año que termino ej; 2022
