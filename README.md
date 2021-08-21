@@ -212,7 +212,7 @@ Parte 4: <br>
 - ## Cambiar en el script predictores.sh cambiar la linea 69 con el año que hay que descargar <br>  "for(( a=1979; a<= 2021 ; a++)); do" aca cambiar 2021 por el año que termino ej; 2022
 
 - Este script crea el directorio NNR conteniendo los archivos de las variables de los reanalisis de todos los años<br>
-- El contenido del directorio hay que copiarlo al directorio Windows "NNR" <br>
+- El contenido del directorio hay que copiarlo al directorio Windows "NNR" <br><br>
 
 
 <p align="center">
