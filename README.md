@@ -202,10 +202,10 @@ Parte 4: <br>
 - Para ello, se tiene que usar el script "predicProno.sh {año}" para el año correspondiente ( ej: "predicProno.sh 2021"  en la maquina virtual Linux de VirtualBox.<br>
 
 - ##  SCRIPT predicProno.sh :
-- El script "predictprono.sh {año}" Creará el directorio NNRMes con los reanalisis de {hgt200.nc, hgt500.nc, hgt1000.nc, st.nc, tcw.nc, u850.nc,v850.nc} <br> de todos los meses de los dos ultimos años y el mes actual con los dias que tiene hasta el momento de realizar el pronóstico. <br>
-- ## El contenido de ese directorio NNRMes hay que copiarlo en nuestra maquina Windows usando el directorio compartido Windows <-> Linux<br>
+- El script "predictprono.sh {año}" Creará el directorio NNRMes con los reanalisis de {hgt200.nc, hgt500.nc, hgt1000.nc, st.nc, tcw.nc, u850.nc,v850.nc}  de todos los meses de los dos ultimos años y el mes actual con los dias que tiene hasta el momento de realizar el pronóstico. <br>
+- ### El contenido de ese directorio NNRMes hay que copiarlo en nuestra maquina Windows usando el directorio compartido Windows <-> Linux<br>
 - En particular en el directorio NNRMes de la Maquina Windows <br>
-- ## una vez que lo copiamos correr el P4.8 para agregar los predictores del ultimo mes en el excel correspondiente. <br>
+- ### Una vez que lo copiamos correr el P4.8 para agregar los predictores del ultimo mes en el excel correspondiente. <br>
 
 - Cada vez que termina un año , correr el script "predictores.sh" en la maquina virtual, para tener los reanalisis completos en el  periodo completo de 1979 al año actual<br>
 - Cambiar en el script predictores.sh cambiar la linea 69 con el año que hay que descargar<br> 
