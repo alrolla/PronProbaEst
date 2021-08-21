@@ -231,4 +231,6 @@ Este modulo lee todos los pronosticos realizados para la verificación y arma un
 
   1. [Como instalar virtualbox y ubuntu?](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/)
   2. [Como configurar un directorio compartido ubuntu <-> windows ](https://docs.google.com/document/d/13T0DCI9fvo-ZCHFQTBwo9Act24s63QtKKufwGTDWIU4)
+
+## Para facilitar el tema de la configuracion de la maquina virtual , luego de intalar virtualbox se puede importar la maquina vitual linux ya configurada
   3. [Como exportar e Importar una maquina virtual !!!!](https://marcosmarti.org/como-exportar-e-importar-una-maquina-virtual-en-virtualbox/)
