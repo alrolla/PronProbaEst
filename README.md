@@ -207,11 +207,12 @@ Parte 4: <br>
 - En particular en el directorio NNRMes de la Maquina Windows <br>
 - ### Una vez que lo copiamos correr el P4.8 para agregar los predictores del ultimo mes en el excel correspondiente. <br>
 
-- Cada vez que termina un año , correr el script "predictores.sh" en la maquina virtual, para tener los reanalisis completos en el  periodo completo de 1979 al año actual<br>
-- Cambiar en el script predictores.sh cambiar la linea 69 con el año que hay que descargar<br> 
-- "for(( a=1979; a<= 2021 ; a++)); do" aca cambiar 2021 por el año que termino ej; 2022
-- 
-- Esto crea el directorio NNR conteniendo los archivos de las variables de los reanalisis de todos los años<br>
+- ##  SCRIPT predictores.sh :
+- Cada vez que termina un año , hay que usar el script "predictores.sh" en la maquina virtual, para tener los reanalisis completos en el  periodo de 1979 al año actual<br>
+- ## Cambiar en el script predictores.sh cambiar la linea 69 con el año que hay que descargar <br>  "for(( a=1979; a<= 2021 ; a++)); do" aca cambiar 2021 por el año que termino ej; 2022
+
+- Este script crea el directorio NNR conteniendo los archivos de las variables de los reanalisis de todos los años<br>
+- El contenido del directorio hay que copiarlo al directorio Windows "NNR" <br>
 
 
 <p align="center">
