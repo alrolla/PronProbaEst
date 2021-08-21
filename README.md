@@ -200,8 +200,9 @@ Parte 4: <br>
 - Este modulo es similar al Modulo P7 con la diferencia que como estamos pronosticando sin disponer de la observacion TODO lo relacionado a verificacion es omitido en el excel resultante <br>
 - Antes de usar este modulo , se deben completar los archivos de predictores con el predictor del ultimo mes, pero calculado con los dias  hasta el momento de realizar el pronóstico.<br>
 - Para ello, se tiene que usar el script "predicProno.sh {año}" para el año corresppondiente en la maquina virtual.<br>
-- Crea el directorio NNRMes con todos los meses de los dos ultimos años y el mes actual con los dias que tiene >br>
-- Ese NNRMes hay que copiarlo en nuestra maquina y una vez que lo copiamos correr el P4.8 para agregar el predictor del ultimo mes <br>
+- El script "predictprono.sh {año} Crea el directorio NNRMes con los reanalisis de {hgt200.nc, hgt500.nc, hgt1000.nc, st.nc, tcw.nc, u850.nc,v850.nc} <br> de todos los meses de los dos ultimos años y el mes actual con los dias que tiene actualmente >br>
+- Ese directorio NNRMes hay que copiarlo en nuestra maquina y una vez que lo copiamos correr el P4.8 para agregar el predictor del ultimo mes <br>
+- Ademas el directorio debe contener el archivo 
 - Cada vez que termina un año , correr el "predictores.sh" en la maquina virtual<br>
 - Cambiar en el script hasta el año que hay que descargar<br>
 - Esto crea el directorio NNR conteniendo los archivos de las variables de los reanalisis de todos los años<br>
