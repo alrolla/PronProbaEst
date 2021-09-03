@@ -234,7 +234,7 @@ Este modulo lee todos los pronosticos realizados para la verificación y arma un
 - ### Para facilitar el tema de la configuracion de la maquina virtual , luego de instalar virtualbox se puede importar la maquina virtual linux ya configurada <br>
 
   3. [Como exportar e Importar una maquina virtual !!!!](https://marcosmarti.org/como-exportar-e-importar-una-maquina-virtual-en-virtualbox/)
-  4. Aca esta la maquina virtual  ["Ubuntu.ova"](http://casandra.cima.fcen.uba.ar/MV/Ubuntu.ova) para importar a virtual box para usar los script de descarga de los archivos.<br>
+  4. Aca esta la maquina virtual  ["Ubuntu.ova"](http://casandra.cima.fcen.uba.ar/MV/Ubuntu.ova) para importar a virtual box para usar los script de descarga de los archivos de los reanalisis.<br>
     Usuario: alrolla <br>
     pwd: pepe o vicma01 .... no me acuerdo :-) <br>
       
