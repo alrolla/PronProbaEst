@@ -226,7 +226,7 @@ Este modulo lee todos los pronosticos realizados para la verificación y arma un
   <img src="./img/P9.png" width="800"/>
 </p>
 
-- ## ANEXO - Instalacion de virtualbox y linux en Windows
+- ## ANEXO - Instalacion de virtualbox y linux en Windows para la descarga de REANALISIS
 
   1. [Como instalar virtualbox y ubuntu?](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/)
   2. [Como configurar un directorio compartido ubuntu <-> windows ](https://docs.google.com/document/d/13T0DCI9fvo-ZCHFQTBwo9Act24s63QtKKufwGTDWIU4)
