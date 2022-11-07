@@ -37,8 +37,10 @@ La figura siguiente muestra la interaccion entre los distintos modulos del siste
       * Es importante que inicien en el Enero del año 1979 **(aunque el periodo inical en el proceso debe ser 1980!)**
       * las variables de los reanalisis considerados son: 
          *  **hgt200**: geopotencial en 200 hPa
-         *  **hgt500**: geopotencial en 200 hPa
-         *  **hgt1000**: geopotencial en 1000 hPa,sst
+         *  **hgt500**: geopotencial en 500 hPa
+         *  **hgt1000**: geopotencial en 1000 hPa
+         *  **u850**: viento en 850 hPa
+         *  **v850**: viento en 850 hPa
          *  **sst**: temperatura superficie del mar
          *  **tcw**: agua total en la columna
       *  hay una variable que no cambia:
