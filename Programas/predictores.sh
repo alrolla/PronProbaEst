@@ -1,4 +1,8 @@
 #!/bin/bash
+# Este script descarga los reanalisis , funciona en LINUX
+# =====================================================================
+# Es necesario tener instalado CDO y NCO para los recortes y calculos
+# =====================================================================
 
 rm -fr NNR
 
@@ -60,30 +64,21 @@ cd SST
 
 for (( a=1979; a < 2022 ; a++)); do
 
-  wget  ftp://ftp2.psl.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/surface_gauss/skt.sfc.gauss.${a}.nc -O skt.sfc.gauss.${a}.nc
-  
-  cdo remapbil,AUX1/GridDes skt.sfc.gauss.${a}.nc  sst${a}_r.nc
-  
-	if [ $a -gt 2014 ]
-		then
-		    #cdo remapbil,AUX1/GridDes skt.sfc.gauss.${a}.nc  sst${a}_r.nc
-			ncwa -a nbnds sst${a}_r.nc sst${a}_r1.nc
-			ncks -x -v time_bnds sst${a}_r1.nc sst${a}_r2.nc
-			cdo div sst${a}_r2.nc AUX1/land2.nc sst${a}_m.nc
-  			cdo -addc,-273.15 sst${a}_m.nc sst${a}_c.nc
-		else
- 		    cdo div sst${a}_r.nc AUX1/land2.nc sst${a}_m.nc
-  		    cdo -addc,-273.15 sst${a}_m.nc sst${a}_c.nc
-	fi
-  
-cdo monmean sst${a}_c.nc sst${a}_c_m.nc
-
-
-rm sst${a}_m.nc
-rm sst${a}_r*.nc
-rm sst${a}_r*.nc
-rm sst${a}_c.nc
-rm skt.sfc.gauss.${a}.nc
+	wget  ftp://ftp2.psl.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/surface_gauss/skt.sfc.gauss.${a}.nc -O skt.sfc.gauss.${a}.nc
+	
+	cdo remapbil,AUX1/GridDes skt.sfc.gauss.${a}.nc  sst${a}_r.nc
+	
+	ncwa -a nbnds sst${a}_r.nc sst${a}_r1.nc
+	ncks -x -v time_bnds sst${a}_r1.nc sst${a}_r2.nc
+	cdo div sst${a}_r2.nc AUX1/land2.nc sst${a}_m.nc
+	cdo -addc,-273.15 sst${a}_m.nc sst${a}_c.nc  
+	cdo monmean sst${a}_c.nc sst${a}_c_m.nc
+	#Borro temporales	
+	rm sst${a}_m.nc
+	rm sst${a}_r*.nc
+	rm sst${a}_r*.nc
+	rm sst${a}_c.nc
+	rm skt.sfc.gauss.${a}.nc
 
 
 done
