@@ -60,7 +60,6 @@ mv tcw.nc NNR
 rm pr_wtr.mon.mean.nc
 
 # Proceso SST
-cd SST
 
 for (( a=1979; a < 2022 ; a++)); do
 
@@ -86,7 +85,7 @@ done
 #concateno todos los años
 ncrcat  sst????_c_m.nc  sst.nc
 
-mv sst.nc ../NNR/
+mv sst.nc NNR/
 
 #borro los temporales y nos quedamos con el sst.nc
 rm sst????_c_m.nc
